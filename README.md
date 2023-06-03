@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Chaurasiya</h1>
-<h3 align="center">A Passionate Full-Stack Developer From India</h3><br>
+<h2 align="center">A Passionate Full-Stack Developer From India</h2>
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><br>
-<h6>“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.”“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.</h6>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><br>
+<h5>“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.”“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.</h5>
 <div>
+  <hr/>
+  <br/>
   # 💫 About Me:
-🔭 I’m currently working as Front-end Developer ( NEXTJS)<br>🌱 I’m currently Learning Advanced Libraries Of Front-End.<br>💬 Ask me about HTML, CSS, JavaScript, BootStrap, NextJS, ReactJS, NodeJS, MongoDB<br>📫 How to reach me: sandeep140499kumar@gmail.com<br>🔭 All My Projects: [I want to see](https://github.com/sandeep140499?tab=repositories)<br>⚡ Fun fact is I am lazy Yet Smart.
+<div>
+  🔭 I’m currently working as Front-end Developer ( NEXTJS)<br>🌱 I’m currently Learning Advanced Libraries Of Front-End.<br>💬 Ask me about HTML, CSS, JavaScript, BootStrap, NextJS, ReactJS, NodeJS, MongoDB<br>📫 How to reach me: sandeep140499kumar@gmail.com<br>🔭 All My Projects: [I want to see](https://github.com/sandeep140499?tab=repositories)<br>⚡ Fun fact is I am lazy Yet Smart.
+  </div>
 
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeepKumar_1404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-kumar-chaurasiya-2852a879/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sandeep140499) 
