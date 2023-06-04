@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Chaurasiya</h1>
+<h1 align="center" >Hi 👋, I'm Sandeep Kumar Chaurasiya</h1>
 <h2 align="center">A Passionate Full-Stack Developer From India</h2>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><br>
