@@ -2,7 +2,7 @@
 <h2 align="center">A Passionate Full-Stack Developer From India</h2>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><br>
-<h5>“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.”“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.</h5>
+<h5>“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.”</h5>
 <div>
   <hr/>
   <br/>
