@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Sandeep Kumar Chaurasiya</h1>
-<h2 align="center">A Passionate Mern Developer From India</h2>
+<h2 align="center">A Passionate Associate Software Engineer From India</h2>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"><br>
 <h5>“I’m a full-stack MERN developer in building web applications using HTML, CSS, BOOTSTRAP, REACTJS AND NEXTJS, as a front-end Developer and Node.js, Express.js, and MongoDB backed-Developer. I’m passionate about creating clean and efficient code that delivers a great user experience. Currently, I work as a JavaScript developer- Front-end Developer where I continue to hone my skills and stay up-to-date with the latest technologies in the industry.”</h5>
